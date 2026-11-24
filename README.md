@@ -1,2 +1,2 @@
-# HolloeKnight-card-game
-just a blueprint(Home work for uni)
+# HollowKnight-card-game
+(Home work for uni)
